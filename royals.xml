@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+
+<document>
+	<title>The Brenkrike Royal Family</title>
+	<paragraph>
+		<heading>King Christopher I</heading>
+		<text>
+			<a href='mailto:yoda2031@gmail.com'>His Royal Highness King Christopher I of Brenkrike</a> is an eccentric young man with a penchant for chess, programming and other intellectual pursuits.
+		</text>
+	</paragraph>
+	<paragraph>
+		<heading>Queen Miranda I</heading>
+		<text>
+			<a href='mailto:melvilletheshark@gmail.com'>Her Royal Highness Queen Miranda I of Brenkrike</a> has not written her bio yet.
+		</text>
+	</paragraph>
+	<paragraph>
+		<heading>Princess Emma I</heading>
+		<text>
+			Princess Emma I is the royal cat.  She likes sleeping, eating and cuddles.
+		</text>
+	</paragraph>
+</document>

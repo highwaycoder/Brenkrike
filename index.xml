@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+
+<document>
+	<title>The Great Nation of Brenkrike</title>
+	<paragraph>
+		<heading>Brenkrike</heading>
+		<text>		
+			Welcome to the home page for the Great Nation of Brenkrike.
+
+			If you wish to become a citizen of Brenkrike or would like more information about the nation, please contact <a href='mailto:yoda2031@gmail.com'>King Christopher</a>.
+		</text>
+	</paragraph>
+</document>
