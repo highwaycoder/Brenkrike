@@ -3,3 +3,11 @@ Micronation
 Name: Brenkrike
 
 Government type: Constitutional Monarchy with hereditary noble hierarchy by appointment
+
+Social Security Number format:
+ - first two digits are the year you were born
+ - next two are the month you were born
+ - next two digits are the day you were born
+ - next digit is whether you are a government official (0 if not, 1 if so)
+ - next digit is gender (even for girls, uneven for boys)
+ - next two digits are random to make the number unique to an individual
