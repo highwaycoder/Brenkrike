@@ -1,0 +1,6 @@
+Documents should be in .txt format with no extension (eg "Constitution")
+Images should be in .png format with source files provided, preferably in a sub-directory called "image-src" (so .svg if inkscape or .xcf if gimp)
+Spreadsheets should be in .csv format with .csv extension
+Logs should be in .txt format with .log extension (eg "1400_CBrowne.log")
+Hierarchies should be in XML format with .mm extension, and should be recognisable by the FreeMind mind-mapping tool.  PNG versions should also be provided for posterity.
+

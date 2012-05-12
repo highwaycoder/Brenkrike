@@ -1,0 +1,27 @@
+Micronation directory hierarchy plan
+
+.: base directory
+./Govermental: government documents, hierarchy documents, etc.
+./Diplomatic: chat logs, minutes from meetings, contact details, etc.
+./Economic: economic databases
+./Iconic: flag designs, seals, coats of arms, etc.
+
+Governmental subdirectories:
+./Governmental/Legal: legal documents such as the constitution go in the base directory
+./Governmental/Legal/YYYY/A: where "YYYY" is the four-digit date of the year the act was passed and A is the name of the act
+./Governmental/Hierarchy: documents relating to the hierarchy of government (such as the knightly order charters)
+./Governmental/Hierarchy/Charters: charters for the various orders of knights
+
+Diplomatic subdirectories:
+./Diplomatic/Logs: chat logs from meetings on IRC with other micronational ambassadors and other useful logs, stored in YY/MM/DD subdirectories, named with the hour of the meeting and the ambassador presents
+./Diplomatic/Minutes: minutes from meetings in real life with other micronational ambassadors, stored in YY/MM/DD subdirectories, named with the hour of the meeting and the ambassador present
+./Diplomatic/Policies: policy documents outlining our diplomatic stance and procedures for engaging other micronations
+
+Economic subdirectories:
+None planned
+
+Iconic subdirectories:
+./Iconic/Flag: flag designs
+./Iconic/Seals: governmental seal designs
+./Iconic/Coats: coats of arms designs
+./Iconic/Currency: designs for coinage/mintage
