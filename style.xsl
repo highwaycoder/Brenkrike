@@ -52,6 +52,7 @@
 				<li><a href="index.xml">Home</a></li>
 				<li><a href="royals.xml">The Royal Family</a></li>
 				<li><a href="citizenship.xml">Citizenship</a></li>
+				<li><a href="history.xml">History</a></li>
 			</ul>
 		      <section id="main_content">
 				<h1>
