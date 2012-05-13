@@ -11,3 +11,13 @@ Social Security Number format:
  - next digit is whether you are a government official (0 if not, 1 if so)
  - next digit is gender (even for girls, uneven for boys)
  - next two digits are random to make the number unique to an individual
+
+Offices:
+  Office of the Lord High Webmaster, charged with:
+    - Maintaining the official website, collaborating with other officers if necessary
+  Office of the Lord High Journalist, charged with:
+    - Maintaining and publishing the official governmental newspaper, collaborating with other officers if necessary
+    - Collaborating with the Lord High Webmaster to maintain the content of the website
+  Office of National Statistics, charged with:
+    - Collecting and submitting to the Lord Highs Webmaster and Journalist statistics relating to national growth and industry.
+    - Analysing and reporting upon these same statistics to the King
