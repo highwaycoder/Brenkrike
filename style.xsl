@@ -51,6 +51,7 @@
 				<li class="header">Navigation Links</li>
 				<li><a href="index.xml">Home</a></li>
 				<li><a href="royals.xml">The Royal Family</a></li>
+				<li><a href="citizenship.xml">Citizenship</a></li>
 			</ul>
 		      <section id="main_content">
 				<h1>
